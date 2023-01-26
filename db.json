@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "id": 450719186,
+      "first_name": "Санжик",
+      "username": "sanzharidze",
+      "type": "private"
+    },
+    {
+      "id": 1173328729,
+      "first_name": "diana🐸",
+      "username": "dianaumarbaeva",
+      "type": "private"
+    },
+    {
+      "id": 223578469,
+      "first_name": "Sultan",
+      "last_name": "B",
+      "username": "bekovs",
+      "type": "private"
+    },
+    {
+      "id": 940366055,
+      "first_name": "Karych🐦🍃",
+      "username": "KarbonatNa3",
+      "type": "private"
+    },
+    {
+      "id": 412029062,
+      "first_name": "Azret",
+      "username": "kung_fukenny",
+      "type": "private"
+    },
+    {
+      "id": 808001039,
+      "first_name": "Жаангер",
+      "last_name": "Бараканов",
+      "username": "jaangernaut",
+      "type": "private"
+    }
+  ]
+}
